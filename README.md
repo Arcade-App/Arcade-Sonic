@@ -21,7 +21,8 @@ App is live on Sonic Testnet - [(Sonic Contract Address)](https://explorer.sonic
 
 ### **Demo Video & Link:**
 
-Demo Link: [https://arcade-web-sonic-demo.vercel.app/ ](https://arcade-web-sonic-demo.vercel.app/ )
+Demo Link: [https://arcade-web-sonic-demo.vercel.app/](https://arcade-web-sonic-demo.vercel.app/)
+
 Demo Video: [Link](Link)
 
 ---
