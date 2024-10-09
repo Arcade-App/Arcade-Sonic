@@ -1,5 +1,8 @@
 # Arcade-Gaming-Sonic-Rush
 
+![image](https://github.com/user-attachments/assets/6fd8f6f2-b00f-48e4-9e4d-2ccffe06a462)
+
+
 ### **About:**
 
 Arcade is a Gaming Super-App where players can discover, play, and compete in a wide variety of casual Web3 games and On-chain tournaments—all on a single platform.  
@@ -23,7 +26,7 @@ App is live on Sonic Testnet - [(Sonic Contract Address)](https://explorer.sonic
 
 Demo Link: [https://arcade-web-sonic-demo.vercel.app/](https://arcade-web-sonic-demo.vercel.app/)
 
-Demo Video: [Link](Link)
+Demo Video: [https://youtu.be/n8jIOicpYhk](https://youtu.be/n8jIOicpYhk)
 
 ---
 
