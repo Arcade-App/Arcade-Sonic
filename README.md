@@ -14,7 +14,7 @@ App is live on Sonic Testnet - [(Sonic Contract Address)](https://explorer.sonic
 ---
 
 ### **Table of Content:**
-1. [Demo Video & Link](#demo-video-&-link)  
+1. [Demo Video & Login Steps](#demo-video-&-login-steps)  
 2. [Inspiration](#inspiration)  
 3. [Features](#features)  
 4. [Tech Stack](#tech-stack)  
@@ -22,11 +22,20 @@ App is live on Sonic Testnet - [(Sonic Contract Address)](https://explorer.sonic
 
 ---
 
-### **Demo Video & Link:**
+### **Demo Video & Login Steps:**
 
 Demo Link: [https://arcade-web-sonic-demo.vercel.app/](https://arcade-web-sonic-demo.vercel.app/)
 
-Demo Video: [https://youtu.be/n8jIOicpYhk](https://youtu.be/n8jIOicpYhk)
+Demo Video: [https://drive.google.com/file/d/11vaOX5A4s63p_1rKsX7BYcE6il-Bu_gE/view?usp=sharing](https://drive.google.com/file/d/11vaOX5A4s63p_1rKsX7BYcE6il-Bu_gE/view?usp=sharing)
+
+### Login Steps
+1. Go to [Arcade Web Link](https://arcade-web-sonic-demo.vercel.app/)
+2. Click on Enter App
+3. Click on Login
+4. Enter Username: mobius
+5. Enter Password: mobius
+
+---
 
 ---
 
