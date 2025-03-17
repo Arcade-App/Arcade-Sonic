@@ -9,7 +9,7 @@ Arcade is a Gaming Super-App where players can discover, play, and compete in a 
 
 Think of it as the "Facebook Gaming moment" for crypto, where communities can not only play but also create custom meme games within the app and host on-chain tournaments with crypto token prizes.
 
-App is live on Sonic Testnet - [(Sonic Contract Address)](https://explorer.sonic.game/address/4HWfzbQBmN95pktv6qgzpGbk9MHQW4DubRQQtWCFXMms?cluster=testnet).
+App is live on Sonic Testnet - [(Sonic Contract Address)](https://explorer.sonic.game/address/Btk5f4c3e542sPPEAjULLL9WTixJPts5p8G9fiF8R4jF?cluster=testnet.v1).
 
 ---
 
@@ -27,6 +27,8 @@ App is live on Sonic Testnet - [(Sonic Contract Address)](https://explorer.sonic
 Demo Link: [https://arcade-web-sonic-demo.vercel.app/](https://arcade-web-sonic-demo.vercel.app/)
 
 Demo Video: [https://drive.google.com/file/d/11vaOX5A4s63p_1rKsX7BYcE6il-Bu_gE/view?usp=sharing](https://drive.google.com/file/d/11vaOX5A4s63p_1rKsX7BYcE6il-Bu_gE/view?usp=sharing)
+
+Pitch Deck: [Figma Pitch Deck Link](https://www.figma.com/proto/6D3tWBxFQwfJzmyHvkjmHK/Arcade-App---Pitch-Deck---Sonic?page-id=0%3A1&node-id=2-184&starting-point-node-id=2%3A184&scaling=contain&content-scaling=fixed&t=IdDnCNLZwgUlIukI-1)
 
 ### Login Steps
 1. Go to [Arcade Web Link](https://arcade-web-sonic-demo.vercel.app/)
